@@ -1,0 +1,1097 @@
+Script iniciado en 2022-02-03 21:20:12+01:00 [TERM="xterm-256color" TTY="/dev/pts/97" COLUMNS="154" LINES="47"]
+]0;ibeltra@simba: ~[01;32mibeltra@simba[00m:[01;34m~[00m$ cd ~/.ssh
+]0;ibeltra@simba: ~/.ssh[01;32mibeltra@simba[00m:[01;34m~/.ssh[00m$ ls
+[0m[01;34mibeltra1[0m  id_rsa  id_rsa.pub  known_hosts  [01;34mpc[0m
+]0;ibeltra@simba: ~/.ssh[01;32mibeltra@simba[00m:[01;34m~/.ssh[00m$ cd
+]0;ibeltra@simba: ~[01;32mibeltra@simba[00m:[01;34m~[00m$ git clone [K]0;ibeltra@simba: ~[01;32mibeltra@simba[00m:[01;34m~[00m$ git clone [K]0;ibeltra@simba: ~[01;32mibeltra@simba[00m:[01;34m~[00m$ git clone git@github.com:ibeltra/i.beltra2.git
+fatal: la ruta de destino 'i.beltra2' ya existe y no es un directorio vacío.
+]0;ibeltra@simba: ~[01;32mibeltra@simba[00m:[01;34m~[00m$ git clone git@github.com:ibeltra/i.beltra2.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit@github.com:ibeltra/i.beltra1.git
+Clonando en 'i.beltra1'...
+Warning: Permanently added the ECDSA host key for IP address '140.82.121.3' to the list of known hosts.
+Enter passphrase for key '/home/ibeltra/.ssh/id_rsa': 
+remote: Enumerating objects: 5, done.[K
+remote: Counting objects:  20% (1/5)[Kremote: Counting objects:  40% (2/5)[Kremote: Counting objects:  60% (3/5)[Kremote: Counting objects:  80% (4/5)[Kremote: Counting objects: 100% (5/5)[Kremote: Counting objects: 100% (5/5), done.[K
+remote: Compressing objects:  25% (1/4)[Kremote: Compressing objects:  50% (2/4)[Kremote: Compressing objects:  75% (3/4)[Kremote: Compressing objects: 100% (4/4)[Kremote: Compressing objects: 100% (4/4), done.[K
+remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Recibiendo objetos:  20% (1/5)   Recibiendo objetos:  40% (2/5)   Recibiendo objetos:  60% (3/5)   Recibiendo objetos:  80% (4/5)   Recibiendo objetos: 100% (5/5)   Recibiendo objetos: 100% (5/5), 13.45 KiB | 13.45 MiB/s, listo.
+]0;ibeltra@simba: ~[01;32mibeltra@simba[00m:[01;34m~[00m$ cd i.beltra1
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ cp /0_procesos.py [K]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ cp /0_procesos.py [K]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ cp /0_procesos.py /i.beltra1/procesos.py[C procesos.py0 procesos.py_ procesos.py[C[1Pprocesos.py[C[C[C[C[C[C[C[C[C[C[C
+cp: no se puede efectuar `stat' sobre '/0_procesos.py': No existe el fichero o el directorio
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ cd
+]0;ibeltra@simba: ~[01;32mibeltra@simba[00m:[01;34m~[00m$ p[Kcp ~/0_procesos.py /i.beltra1/0_procesos.py
+cp: no se puede crear el fichero regular '/i.beltra1/0_procesos.py': No existe el fichero o el directorio
+]0;ibeltra@simba: ~[01;32mibeltra@simba[00m:[01;34m~[00m$ cd i.beltra1
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ pu[Kython2 [K[K[Kn3 0_procesos.py
+python3: can't open file '0_procesos.py': [Errno 2] No such file or directory
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ python3 0_procesos.py
+fin
+hola 0
+hola 0
+hola 1
+hola 2
+hola 3
+hola 1
+hola 2
+hola 4
+hola 3
+hola 4
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ python3 0_procesos.py[1P_procesos.py1_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C
+hola soy ana 0 vuelta 0
+hola soy ana 1 vuelta 0
+hola soy ana 2 vuelta 0
+hola soy ana 3 vuelta 0
+hola soy ana 4 vuelta 0
+hola soy ana 5 vuelta 0
+hola soy ana 6 vuelta 0
+hola soy ana 7 vuelta 0
+fin
+hola soy ana 9 vuelta 0
+hola soy ana 8 vuelta 0
+adios
+hola soy ana 6 vuelta 1
+hola soy ana 5 vuelta 1
+hola soy ana 8 vuelta 1
+hola soy ana 5 vuelta 2
+hola soy ana 4 vuelta 1
+hola soy ana 1 vuelta 1
+hola soy ana 2 vuelta 1
+hola soy ana 0 vuelta 1
+hola soy ana 9 vuelta 1
+hola soy ana 3 vuelta 1
+hola soy ana 8 vuelta 2
+hola soy ana 1 vuelta 2
+hola soy ana 7 vuelta 1
+hola soy ana 0 vuelta 2
+hola soy ana 4 vuelta 2
+hola soy ana 3 vuelta 2
+hola soy ana 6 vuelta 2
+hola soy ana 2 vuelta 2
+hola soy ana 9 vuelta 2
+hola soy ana 7 vuelta 2
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ git add 0_procesos.py
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ git commit -m 0_procesos.py"[K[K[K[K[K[K[K[K[K[K[K[K[K[K"caso 0"
+[main 3d33daf] caso 0
+ Committer: Isabel Beltrá Merino <ibeltra@meralloz4.fdi.ucm.es>
+Tu nombre y correo fueron configurados automáticamente basados
+en tu usuario y nombre de host. Por favor verifica que son correctos.
+Tu puedes suprimir este mensaje configurándolos de forma explicita: 
+
+    git config --global user.name "Tu nombre"
+    git config --global user.email you@example.com
+
+Tras hacer esto, puedes arreglar tu identidad para este commit con:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 19 insertions(+)
+ create mode 100644 0_procesos.py
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ git push
+Enter passphrase for key '/home/ibeltra/.ssh/id_rsa': 
+Enter passphrase for key '/home/ibeltra/.ssh/id_rsa': 
+Enumerando objetos: 4, listo.
+Contando objetos:  25% (1/4)   Contando objetos:  50% (2/4)   Contando objetos:  75% (3/4)   Contando objetos: 100% (4/4)   Contando objetos: 100% (4/4), listo.
+Compresión delta usando hasta 12 hilos
+Comprimiendo objetos:  33% (1/3)   Comprimiendo objetos:  66% (2/3)   Comprimiendo objetos: 100% (3/3)   Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos:  33% (1/3)   Escribiendo objetos:  66% (2/3)   Escribiendo objetos: 100% (3/3)   Escribiendo objetos: 100% (3/3), 585 bytes | 585.00 KiB/s, listo.
+Total 3 (delta 0), reusado 0 (delta 0)
+To github.com:ibeltra/i.beltra1.git
+   5d8c287..3d33daf  main -> main
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ git pushcommit -m "caso 0"[1Padd 0_procesos.pypython3 1_procesos.pygit add 0_procesos.py[1P_procesos.py1_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ git commit -m "caso1 1[C"
+[main b1d3d01] caso 1
+ Committer: Isabel Beltrá Merino <ibeltra@meralloz4.fdi.ucm.es>
+Tu nombre y correo fueron configurados automáticamente basados
+en tu usuario y nombre de host. Por favor verifica que son correctos.
+Tu puedes suprimir este mensaje configurándolos de forma explicita: 
+
+    git config --global user.name "Tu nombre"
+    git config --global user.email you@example.com
+
+Tras hacer esto, puedes arreglar tu identidad para este commit con:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 24 insertions(+)
+ create mode 100644 1_procesos.py
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ git push
+Enter passphrase for key '/home/ibeltra/.ssh/id_rsa': 
+Enumerando objetos: 4, listo.
+Contando objetos:  25% (1/4)   Contando objetos:  50% (2/4)   Contando objetos:  75% (3/4)   Contando objetos: 100% (4/4)   Contando objetos: 100% (4/4), listo.
+Compresión delta usando hasta 12 hilos
+Comprimiendo objetos:  33% (1/3)   Comprimiendo objetos:  66% (2/3)   Comprimiendo objetos: 100% (3/3)   Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos:  33% (1/3)   Escribiendo objetos:  66% (2/3)   Escribiendo objetos: 100% (3/3)   Escribiendo objetos: 100% (3/3), 527 bytes | 527.00 KiB/s, listo.
+Total 3 (delta 1), reusado 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:ibeltra/i.beltra1.git
+   3d33daf..b1d3d01  main -> main
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ python3 2_procesos.py
+fin
+hola soy ana_0, 8262, True, vuelta 0
+hola soy ana_1, 8263, True, vuelta 0
+hola soy ana_2, 8264, True, vuelta 0
+adios
+hola soy ana_0, 8262, True, vuelta 1
+hola soy ana_1, 8263, True, vuelta 1
+hola soy ana_1, 8263, True, vuelta 2
+hola soy ana_2, 8264, True, vuelta 1
+hola soy ana_2, 8264, True, vuelta 2
+hola soy ana_2, 8264, True, vuelta 3
+hola soy ana_1, 8263, True, vuelta 3
+hola soy ana_0, 8262, True, vuelta 2
+hola soy ana_1, 8263, True, vuelta 4
+hola soy ana_2, 8264, True, vuelta 4
+hola soy ana_0, 8262, True, vuelta 3
+hola soy ana_0, 8262, True, vuelta 4
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ git add 2_procesos.py
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ git commit .[K-m "caso 2"
+[main b9db395] caso 2
+ Committer: Isabel Beltrá Merino <ibeltra@meralloz4.fdi.ucm.es>
+Tu nombre y correo fueron configurados automáticamente basados
+en tu usuario y nombre de host. Por favor verifica que son correctos.
+Tu puedes suprimir este mensaje configurándolos de forma explicita: 
+
+    git config --global user.name "Tu nombre"
+    git config --global user.email you@example.com
+
+Tras hacer esto, puedes arreglar tu identidad para este commit con:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 26 insertions(+)
+ create mode 100644 2_procesos.py
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ git push
+Enter passphrase for key '/home/ibeltra/.ssh/id_rsa': 
+Enumerando objetos: 4, listo.
+Contando objetos:  25% (1/4)   Contando objetos:  50% (2/4)   Contando objetos:  75% (3/4)   Contando objetos: 100% (4/4)   Contando objetos: 100% (4/4), listo.
+Compresión delta usando hasta 12 hilos
+Comprimiendo objetos:  33% (1/3)   Comprimiendo objetos:  66% (2/3)   Comprimiendo objetos: 100% (3/3)   Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos:  33% (1/3)   Escribiendo objetos:  66% (2/3)   Escribiendo objetos: 100% (3/3)   Escribiendo objetos: 100% (3/3), 563 bytes | 563.00 KiB/s, listo.
+Total 3 (delta 1), reusado 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:ibeltra/i.beltra1.git
+   b1d3d01..b9db395  main -> main
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ python3 3_procesos.py
+Valor inicial del contador 0
+hola soy 8418, vuelta: 0, contador: 0
+hola soy 8419, vuelta: 0, contador: 0
+hola soy 8420, vuelta: 0, contador: 0
+hola soy 8424, vuelta: 0, contador: 0
+hola soy 8421, vuelta: 0, contador: 0
+hola soy 8422, vuelta: 0, contador: 0
+hola soy 8423, vuelta: 0, contador: 0
+hola soy 8425, vuelta: 0, contador: 0
+hola soy 8418, vuelta: 1, contador: 1
+hola soy 8419, vuelta: 1, contador: 1
+hola soy 8420, vuelta: 1, contador: 1
+hola soy 8424, vuelta: 1, contador: 1
+hola soy 8421, vuelta: 1, contador: 1
+hola soy 8422, vuelta: 1, contador: 1
+hola soy 8423, vuelta: 1, contador: 1
+hola soy 8425, vuelta: 1, contador: 1
+hola soy 8418, vuelta: 2, contador: 2
+hola soy 8419, vuelta: 2, contador: 2
+hola soy 8420, vuelta: 2, contador: 2
+hola soy 8424, vuelta: 2, contador: 2
+hola soy 8421, vuelta: 2, contador: 2
+hola soy 8422, vuelta: 2, contador: 2
+hola soy 8423, vuelta: 2, contador: 2
+hola soy 8425, vuelta: 2, contador: 2
+hola soy 8418, vuelta: 3, contador: 3
+hola soy 8419, vuelta: 3, contador: 3
+hola soy 8420, vuelta: 3, contador: 3
+hola soy 8424, vuelta: 3, contador: 3
+hola soy 8421, vuelta: 3, contador: 3
+hola soy 8422, vuelta: 3, contador: 3
+hola soy 8423, vuelta: 3, contador: 3
+hola soy 8425, vuelta: 3, contador: 3
+hola soy 8418, vuelta: 4, contador: 4
+hola soy 8419, vuelta: 4, contador: 4
+hola soy 8420, vuelta: 4, contador: 4
+hola soy 8424, vuelta: 4, contador: 4
+hola soy 8421, vuelta: 4, contador: 4
+hola soy 8422, vuelta: 4, contador: 4
+hola soy 8423, vuelta: 4, contador: 4
+hola soy 8425, vuelta: 4, contador: 4
+hola soy 8418, vuelta: 5, contador: 5
+hola soy 8419, vuelta: 5, contador: 5
+hola soy 8420, vuelta: 5, contador: 5
+hola soy 8424, vuelta: 5, contador: 5
+hola soy 8421, vuelta: 5, contador: 5
+hola soy 8422, vuelta: 5, contador: 5
+hola soy 8423, vuelta: 5, contador: 5
+hola soy 8425, vuelta: 5, contador: 5
+hola soy 8418, vuelta: 6, contador: 6
+hola soy 8419, vuelta: 6, contador: 6
+hola soy 8420, vuelta: 6, contador: 6
+hola soy 8424, vuelta: 6, contador: 6
+hola soy 8421, vuelta: 6, contador: 6
+hola soy 8422, vuelta: 6, contador: 6
+hola soy 8423, vuelta: 6, contador: 6
+hola soy 8425, vuelta: 6, contador: 6
+hola soy 8418, vuelta: 7, contador: 7
+hola soy 8419, vuelta: 7, contador: 7
+hola soy 8420, vuelta: 7, contador: 7
+hola soy 8424, vuelta: 7, contador: 7
+hola soy 8422, vuelta: 7, contador: 7
+hola soy 8421, vuelta: 7, contador: 7
+hola soy 8423, vuelta: 7, contador: 7
+hola soy 8425, vuelta: 7, contador: 7
+hola soy 8418, vuelta: 8, contador: 8
+hola soy 8419, vuelta: 8, contador: 8
+hola soy 8420, vuelta: 8, contador: 8
+hola soy 8424, vuelta: 8, contador: 8
+hola soy 8422, vuelta: 8, contador: 8
+hola soy 8421, vuelta: 8, contador: 8
+hola soy 8423, vuelta: 8, contador: 8
+hola soy 8425, vuelta: 8, contador: 8
+hola soy 8418, vuelta: 9, contador: 9
+hola soy 8419, vuelta: 9, contador: 9
+hola soy 8420, vuelta: 9, contador: 9
+hola soy 8424, vuelta: 9, contador: 9
+hola soy 8422, vuelta: 9, contador: 9
+hola soy 8421, vuelta: 9, contador: 9
+hola soy 8423, vuelta: 9, contador: 9
+hola soy 8425, vuelta: 9, contador: 9
+hola soy 8418, vuelta: 10, contador: 10
+hola soy 8419, vuelta: 10, contador: 10
+hola soy 8420, vuelta: 10, contador: 10
+hola soy 8424, vuelta: 10, contador: 10
+hola soy 8422, vuelta: 10, contador: 10
+hola soy 8423, vuelta: 10, contador: 10
+hola soy 8421, vuelta: 10, contador: 10
+hola soy 8425, vuelta: 10, contador: 10
+hola soy 8418, vuelta: 11, contador: 11
+hola soy 8419, vuelta: 11, contador: 11
+hola soy 8420, vuelta: 11, contador: 11
+hola soy 8424, vuelta: 11, contador: 11
+hola soy 8422, vuelta: 11, contador: 11
+hola soy 8421, vuelta: 11, contador: 11
+hola soy 8423, vuelta: 11, contador: 11
+hola soy 8425, vuelta: 11, contador: 11
+hola soy 8418, vuelta: 12, contador: 12
+hola soy 8419, vuelta: 12, contador: 12
+hola soy 8420, vuelta: 12, contador: 12
+hola soy 8424, vuelta: 12, contador: 12
+hola soy 8422, vuelta: 12, contador: 12
+hola soy 8421, vuelta: 12, contador: 12
+hola soy 8423, vuelta: 12, contador: 12
+hola soy 8425, vuelta: 12, contador: 12
+hola soy 8418, vuelta: 13, contador: 13
+hola soy 8419, vuelta: 13, contador: 13
+hola soy 8420, vuelta: 13, contador: 13
+hola soy 8424, vuelta: 13, contador: 13
+hola soy 8422, vuelta: 13, contador: 13
+hola soy 8423, vuelta: 13, contador: 13
+hola soy 8421, vuelta: 13, contador: 13
+hola soy 8425, vuelta: 13, contador: 13
+hola soy 8418, vuelta: 14, contador: 14
+hola soy 8419, vuelta: 14, contador: 14
+hola soy 8420, vuelta: 14, contador: 14
+hola soy 8424, vuelta: 14, contador: 14
+hola soy 8422, vuelta: 14, contador: 14
+hola soy 8421, vuelta: 14, contador: 14
+hola soy 8423, vuelta: 14, contador: 14
+hola soy 8425, vuelta: 14, contador: 14
+hola soy 8418, vuelta: 15, contador: 15
+hola soy 8419, vuelta: 15, contador: 15
+hola soy 8420, vuelta: 15, contador: 15
+hola soy 8424, vuelta: 15, contador: 15
+hola soy 8422, vuelta: 15, contador: 15
+hola soy 8423, vuelta: 15, contador: 15
+hola soy 8421, vuelta: 15, contador: 15
+hola soy 8425, vuelta: 15, contador: 15
+hola soy 8418, vuelta: 16, contador: 16
+hola soy 8419, vuelta: 16, contador: 16
+hola soy 8420, vuelta: 16, contador: 16
+hola soy 8424, vuelta: 16, contador: 16
+hola soy 8422, vuelta: 16, contador: 16
+hola soy 8423, vuelta: 16, contador: 16
+hola soy 8421, vuelta: 16, contador: 16
+hola soy 8425, vuelta: 16, contador: 16
+hola soy 8418, vuelta: 17, contador: 17
+hola soy 8419, vuelta: 17, contador: 17
+hola soy 8420, vuelta: 17, contador: 17
+hola soy 8424, vuelta: 17, contador: 17
+hola soy 8422, vuelta: 17, contador: 17
+hola soy 8423, vuelta: 17, contador: 17
+hola soy 8421, vuelta: 17, contador: 17
+hola soy 8425, vuelta: 17, contador: 17
+hola soy 8418, vuelta: 18, contador: 18
+hola soy 8419, vuelta: 18, contador: 18
+hola soy 8420, vuelta: 18, contador: 18
+hola soy 8424, vuelta: 18, contador: 18
+hola soy 8422, vuelta: 18, contador: 18
+hola soy 8425, vuelta: 18, contador: 18
+hola soy 8421, vuelta: 18, contador: 18
+hola soy 8423, vuelta: 18, contador: 18
+hola soy 8418, vuelta: 19, contador: 19
+hola soy 8419, vuelta: 19, contador: 19
+hola soy 8420, vuelta: 19, contador: 19
+hola soy 8424, vuelta: 19, contador: 19
+hola soy 8422, vuelta: 19, contador: 19
+hola soy 8425, vuelta: 19, contador: 19
+hola soy 8423, vuelta: 19, contador: 19
+hola soy 8421, vuelta: 19, contador: 19
+hola soy 8418, vuelta: 20, contador: 20
+hola soy 8420, vuelta: 20, contador: 20
+hola soy 8419, vuelta: 20, contador: 20
+hola soy 8424, vuelta: 20, contador: 20
+hola soy 8422, vuelta: 20, contador: 20
+hola soy 8425, vuelta: 20, contador: 20
+hola soy 8421, vuelta: 20, contador: 20
+hola soy 8423, vuelta: 20, contador: 20
+hola soy 8418, vuelta: 21, contador: 21
+hola soy 8420, vuelta: 21, contador: 21
+hola soy 8419, vuelta: 21, contador: 21
+hola soy 8424, vuelta: 21, contador: 21
+hola soy 8422, vuelta: 21, contador: 21
+hola soy 8425, vuelta: 21, contador: 21
+hola soy 8421, vuelta: 21, contador: 21
+hola soy 8423, vuelta: 21, contador: 21
+hola soy 8420, vuelta: 22, contador: 22
+hola soy 8419, vuelta: 22, contador: 22
+hola soy 8418, vuelta: 22, contador: 22
+hola soy 8424, vuelta: 22, contador: 22
+hola soy 8422, vuelta: 22, contador: 22
+hola soy 8425, vuelta: 22, contador: 22
+hola soy 8421, vuelta: 22, contador: 22
+hola soy 8423, vuelta: 22, contador: 22
+hola soy 8418, vuelta: 23, contador: 23
+hola soy 8419, vuelta: 23, contador: 23
+hola soy 8420, vuelta: 23, contador: 23
+hola soy 8424, vuelta: 23, contador: 23
+hola soy 8422, vuelta: 23, contador: 23
+hola soy 8425, vuelta: 23, contador: 23
+hola soy 8421, vuelta: 23, contador: 23
+hola soy 8423, vuelta: 23, contador: 23
+hola soy 8418, vuelta: 24, contador: 24
+hola soy 8419, vuelta: 24, contador: 24
+hola soy 8420, vuelta: 24, contador: 24
+hola soy 8424, vuelta: 24, contador: 24
+hola soy 8422, vuelta: 24, contador: 24
+hola soy 8425, vuelta: 24, contador: 24
+hola soy 8421, vuelta: 24, contador: 24
+hola soy 8423, vuelta: 24, contador: 24
+hola soy 8418, vuelta: 25, contador: 25
+hola soy 8419, vuelta: 25, contador: 25
+hola soy 8420, vuelta: 25, contador: 25
+hola soy 8424, vuelta: 25, contador: 25
+hola soy 8422, vuelta: 25, contador: 25
+hola soy 8425, vuelta: 25, contador: 25
+hola soy 8421, vuelta: 25, contador: 25
+hola soy 8423, vuelta: 25, contador: 25
+hola soy 8418, vuelta: 26, contador: 26
+hola soy 8420, vuelta: 26, contador: 26
+hola soy 8419, vuelta: 26, contador: 26
+hola soy 8424, vuelta: 26, contador: 26
+hola soy 8422, vuelta: 26, contador: 26
+hola soy 8425, vuelta: 26, contador: 26
+hola soy 8421, vuelta: 26, contador: 26
+hola soy 8423, vuelta: 26, contador: 26
+hola soy 8418, vuelta: 27, contador: 27
+hola soy 8420, vuelta: 27, contador: 27
+hola soy 8419, vuelta: 27, contador: 27
+hola soy 8424, vuelta: 27, contador: 27
+hola soy 8422, vuelta: 27, contador: 27
+hola soy 8425, vuelta: 27, contador: 27
+hola soy 8421, vuelta: 27, contador: 27
+hola soy 8423, vuelta: 27, contador: 27
+hola soy 8418, vuelta: 28, contador: 28
+hola soy 8420, vuelta: 28, contador: 28
+hola soy 8419, vuelta: 28, contador: 28
+hola soy 8424, vuelta: 28, contador: 28
+hola soy 8422, vuelta: 28, contador: 28
+hola soy 8425, vuelta: 28, contador: 28
+hola soy 8423, vuelta: 28, contador: 28
+hola soy 8421, vuelta: 28, contador: 28
+hola soy 8420, vuelta: 29, contador: 29
+hola soy 8418, vuelta: 29, contador: 29
+hola soy 8419, vuelta: 29, contador: 29
+hola soy 8424, vuelta: 29, contador: 29
+hola soy 8422, vuelta: 29, contador: 29
+hola soy 8425, vuelta: 29, contador: 29
+hola soy 8423, vuelta: 29, contador: 29
+hola soy 8421, vuelta: 29, contador: 29
+hola soy 8420, vuelta: 30, contador: 30
+hola soy 8419, vuelta: 30, contador: 30
+hola soy 8418, vuelta: 30, contador: 30
+hola soy 8422, vuelta: 30, contador: 30
+hola soy 8424, vuelta: 30, contador: 30
+hola soy 8425, vuelta: 30, contador: 30
+hola soy 8421, vuelta: 30, contador: 30
+hola soy 8423, vuelta: 30, contador: 30
+hola soy 8420, vuelta: 31, contador: 31
+hola soy 8419, vuelta: 31, contador: 31
+hola soy 8422, vuelta: 31, contador: 31
+hola soy 8418, vuelta: 31, contador: 31
+hola soy 8424, vuelta: 31, contador: 31
+hola soy 8425, vuelta: 31, contador: 31
+hola soy 8421, vuelta: 31, contador: 31
+hola soy 8423, vuelta: 31, contador: 31
+hola soy 8420, vuelta: 32, contador: 32
+hola soy 8419, vuelta: 32, contador: 32
+hola soy 8422, vuelta: 32, contador: 32
+hola soy 8418, vuelta: 32, contador: 32
+hola soy 8424, vuelta: 32, contador: 32
+hola soy 8425, vuelta: 32, contador: 32
+hola soy 8421, vuelta: 32, contador: 32
+hola soy 8423, vuelta: 32, contador: 32
+hola soy 8420, vuelta: 33, contador: 33
+hola soy 8422, vuelta: 33, contador: 33
+hola soy 8419, vuelta: 33, contador: 33
+hola soy 8418, vuelta: 33, contador: 33
+hola soy 8424, vuelta: 33, contador: 33
+hola soy 8425, vuelta: 33, contador: 33
+hola soy 8421, vuelta: 33, contador: 33
+hola soy 8423, vuelta: 33, contador: 33
+hola soy 8422, vuelta: 34, contador: 34
+hola soy 8420, vuelta: 34, contador: 34
+hola soy 8419, vuelta: 34, contador: 34
+hola soy 8418, vuelta: 34, contador: 34
+hola soy 8424, vuelta: 34, contador: 34
+hola soy 8425, vuelta: 34, contador: 34
+hola soy 8421, vuelta: 34, contador: 34
+hola soy 8423, vuelta: 34, contador: 34
+hola soy 8420, vuelta: 35, contador: 35
+hola soy 8422, vuelta: 35, contador: 35
+hola soy 8419, vuelta: 35, contador: 35
+hola soy 8418, vuelta: 35, contador: 35
+hola soy 8424, vuelta: 35, contador: 35
+hola soy 8421, vuelta: 35, contador: 35
+hola soy 8425, vuelta: 35, contador: 35
+hola soy 8423, vuelta: 35, contador: 35
+hola soy 8420, vuelta: 36, contador: 36
+hola soy 8418, vuelta: 36, contador: 36
+hola soy 8422, vuelta: 36, contador: 36
+hola soy 8419, vuelta: 36, contador: 36
+hola soy 8424, vuelta: 36, contador: 36
+hola soy 8421, vuelta: 36, contador: 36
+hola soy 8425, vuelta: 36, contador: 36
+hola soy 8423, vuelta: 36, contador: 36
+hola soy 8420, vuelta: 37, contador: 37
+hola soy 8418, vuelta: 37, contador: 37
+hola soy 8422, vuelta: 37, contador: 37
+hola soy 8421, vuelta: 37, contador: 37
+hola soy 8419, vuelta: 37, contador: 37
+hola soy 8424, vuelta: 37, contador: 37
+hola soy 8425, vuelta: 37, contador: 37
+hola soy 8423, vuelta: 37, contador: 37
+hola soy 8420, vuelta: 38, contador: 38
+hola soy 8418, vuelta: 38, contador: 38
+hola soy 8421, vuelta: 38, contador: 38
+hola soy 8419, vuelta: 38, contador: 38
+hola soy 8425, vuelta: 38, contador: 38
+hola soy 8424, vuelta: 38, contador: 38
+hola soy 8422, vuelta: 38, contador: 38
+hola soy 8423, vuelta: 38, contador: 38
+hola soy 8420, vuelta: 39, contador: 39
+hola soy 8418, vuelta: 39, contador: 39
+hola soy 8425, vuelta: 39, contador: 39
+hola soy 8422, vuelta: 39, contador: 39
+hola soy 8424, vuelta: 39, contador: 39
+hola soy 8421, vuelta: 39, contador: 39
+hola soy 8419, vuelta: 39, contador: 39
+hola soy 8423, vuelta: 39, contador: 39
+hola soy 8420, vuelta: 40, contador: 40
+hola soy 8425, vuelta: 40, contador: 40
+hola soy 8418, vuelta: 40, contador: 40
+hola soy 8422, vuelta: 40, contador: 40
+hola soy 8423, vuelta: 40, contador: 40
+hola soy 8424, vuelta: 40, contador: 40
+hola soy 8421, vuelta: 40, contador: 40
+hola soy 8419, vuelta: 40, contador: 40
+hola soy 8420, vuelta: 41, contador: 41
+hola soy 8425, vuelta: 41, contador: 41
+hola soy 8418, vuelta: 41, contador: 41
+hola soy 8422, vuelta: 41, contador: 41
+hola soy 8424, vuelta: 41, contador: 41
+hola soy 8423, vuelta: 41, contador: 41
+hola soy 8421, vuelta: 41, contador: 41
+hola soy 8419, vuelta: 41, contador: 41
+hola soy 8420, vuelta: 42, contador: 42
+hola soy 8425, vuelta: 42, contador: 42
+hola soy 8422, vuelta: 42, contador: 42
+hola soy 8418, vuelta: 42, contador: 42
+hola soy 8424, vuelta: 42, contador: 42
+hola soy 8419, vuelta: 42, contador: 42
+hola soy 8423, vuelta: 42, contador: 42
+hola soy 8421, vuelta: 42, contador: 42
+hola soy 8420, vuelta: 43, contador: 43
+hola soy 8424, vuelta: 43, contador: 43
+hola soy 8425, vuelta: 43, contador: 43
+hola soy 8422, vuelta: 43, contador: 43
+hola soy 8418, vuelta: 43, contador: 43
+hola soy 8419, vuelta: 43, contador: 43
+hola soy 8423, vuelta: 43, contador: 43
+hola soy 8421, vuelta: 43, contador: 43
+hola soy 8420, vuelta: 44, contador: 44
+hola soy 8424, vuelta: 44, contador: 44
+hola soy 8425, vuelta: 44, contador: 44
+hola soy 8418, vuelta: 44, contador: 44
+hola soy 8423, vuelta: 44, contador: 44
+hola soy 8419, vuelta: 44, contador: 44
+hola soy 8421, vuelta: 44, contador: 44
+hola soy 8422, vuelta: 44, contador: 44
+hola soy 8424, vuelta: 45, contador: 45
+hola soy 8420, vuelta: 45, contador: 45
+hola soy 8423, vuelta: 45, contador: 45
+hola soy 8425, vuelta: 45, contador: 45
+hola soy 8418, vuelta: 45, contador: 45
+hola soy 8419, vuelta: 45, contador: 45
+hola soy 8422, vuelta: 45, contador: 45
+hola soy 8421, vuelta: 45, contador: 45
+hola soy 8424, vuelta: 46, contador: 46
+hola soy 8420, vuelta: 46, contador: 46
+hola soy 8423, vuelta: 46, contador: 46
+hola soy 8418, vuelta: 46, contador: 46
+hola soy 8422, vuelta: 46, contador: 46
+hola soy 8419, vuelta: 46, contador: 46
+hola soy 8425, vuelta: 46, contador: 46
+hola soy 8421, vuelta: 46, contador: 46
+hola soy 8424, vuelta: 47, contador: 47
+hola soy 8423, vuelta: 47, contador: 47
+hola soy 8420, vuelta: 47, contador: 47
+hola soy 8422, vuelta: 47, contador: 47
+hola soy 8418, vuelta: 47, contador: 47
+hola soy 8419, vuelta: 47, contador: 47
+hola soy 8421, vuelta: 47, contador: 47
+hola soy 8425, vuelta: 47, contador: 47
+hola soy 8424, vuelta: 48, contador: 48
+hola soy 8419, vuelta: 48, contador: 48
+hola soy 8423, vuelta: 48, contador: 48
+hola soy 8418, vuelta: 48, contador: 48
+hola soy 8422, vuelta: 48, contador: 48
+hola soy 8420, vuelta: 48, contador: 48
+hola soy 8421, vuelta: 48, contador: 48
+hola soy 8425, vuelta: 48, contador: 48
+hola soy 8424, vuelta: 49, contador: 49
+hola soy 8419, vuelta: 49, contador: 49
+hola soy 8420, vuelta: 49, contador: 49
+hola soy 8423, vuelta: 49, contador: 49
+hola soy 8421, vuelta: 49, contador: 49
+hola soy 8418, vuelta: 49, contador: 49
+hola soy 8422, vuelta: 49, contador: 49
+hola soy 8425, vuelta: 49, contador: 49
+hola soy 8424, vuelta: 50, contador: 50
+hola soy 8420, vuelta: 50, contador: 50
+hola soy 8419, vuelta: 50, contador: 50
+hola soy 8423, vuelta: 50, contador: 50
+hola soy 8422, vuelta: 50, contador: 50
+hola soy 8421, vuelta: 50, contador: 50
+hola soy 8425, vuelta: 50, contador: 50
+hola soy 8418, vuelta: 50, contador: 50
+hola soy 8424, vuelta: 51, contador: 51
+hola soy 8422, vuelta: 51, contador: 51
+hola soy 8420, vuelta: 51, contador: 51
+hola soy 8423, vuelta: 51, contador: 51
+hola soy 8419, vuelta: 51, contador: 51
+hola soy 8425, vuelta: 51, contador: 51
+hola soy 8418, vuelta: 51, contador: 51
+hola soy 8421, vuelta: 51, contador: 51
+hola soy 8424, vuelta: 52, contador: 52
+hola soy 8420, vuelta: 52, contador: 52
+hola soy 8422, vuelta: 52, contador: 52
+hola soy 8425, vuelta: 52, contador: 52
+hola soy 8418, vuelta: 52, contador: 52
+hola soy 8419, vuelta: 52, contador: 52
+hola soy 8423, vuelta: 52, contador: 52
+hola soy 8421, vuelta: 52, contador: 52
+hola soy 8424, vuelta: 53, contador: 53
+hola soy 8420, vuelta: 53, contador: 53
+hola soy 8422, vuelta: 53, contador: 53
+hola soy 8418, vuelta: 53, contador: 53
+hola soy 8425, vuelta: 53, contador: 53
+hola soy 8421, vuelta: 53, contador: 53
+hola soy 8419, vuelta: 53, contador: 53
+hola soy 8423, vuelta: 53, contador: 53
+hola soy 8424, vuelta: 54, contador: 54
+hola soy 8425, vuelta: 54, contador: 54
+hola soy 8418, vuelta: 54, contador: 54
+hola soy 8421, vuelta: 54, contador: 54
+hola soy 8422, vuelta: 54, contador: 54
+hola soy 8420, vuelta: 54, contador: 54
+hola soy 8423, vuelta: 54, contador: 54
+hola soy 8419, vuelta: 54, contador: 54
+hola soy 8424, vuelta: 55, contador: 55
+hola soy 8425, vuelta: 55, contador: 55
+hola soy 8421, vuelta: 55, contador: 55
+hola soy 8420, vuelta: 55, contador: 55
+hola soy 8418, vuelta: 55, contador: 55
+hola soy 8422, vuelta: 55, contador: 55
+hola soy 8423, vuelta: 55, contador: 55
+hola soy 8419, vuelta: 55, contador: 55
+hola soy 8425, vuelta: 56, contador: 56
+hola soy 8424, vuelta: 56, contador: 56
+hola soy 8421, vuelta: 56, contador: 56
+hola soy 8420, vuelta: 56, contador: 56
+hola soy 8418, vuelta: 56, contador: 56
+hola soy 8422, vuelta: 56, contador: 56
+hola soy 8423, vuelta: 56, contador: 56
+hola soy 8419, vuelta: 56, contador: 56
+hola soy 8424, vuelta: 57, contador: 57
+hola soy 8425, vuelta: 57, contador: 57
+hola soy 8420, vuelta: 57, contador: 57
+hola soy 8421, vuelta: 57, contador: 57
+hola soy 8419, vuelta: 57, contador: 57
+hola soy 8422, vuelta: 57, contador: 57
+hola soy 8423, vuelta: 57, contador: 57
+hola soy 8418, vuelta: 57, contador: 57
+hola soy 8424, vuelta: 58, contador: 58
+hola soy 8425, vuelta: 58, contador: 58
+hola soy 8421, vuelta: 58, contador: 58
+hola soy 8420, vuelta: 58, contador: 58
+hola soy 8419, vuelta: 58, contador: 58
+hola soy 8422, vuelta: 58, contador: 58
+hola soy 8423, vuelta: 58, contador: 58
+hola soy 8418, vuelta: 58, contador: 58
+hola soy 8425, vuelta: 59, contador: 59
+hola soy 8424, vuelta: 59, contador: 59
+hola soy 8421, vuelta: 59, contador: 59
+hola soy 8420, vuelta: 59, contador: 59
+hola soy 8419, vuelta: 59, contador: 59
+hola soy 8418, vuelta: 59, contador: 59
+hola soy 8423, vuelta: 59, contador: 59
+hola soy 8422, vuelta: 59, contador: 59
+hola soy 8424, vuelta: 60, contador: 60
+hola soy 8421, vuelta: 60, contador: 60
+hola soy 8425, vuelta: 60, contador: 60
+hola soy 8420, vuelta: 60, contador: 60
+hola soy 8419, vuelta: 60, contador: 60
+hola soy 8418, vuelta: 60, contador: 60
+hola soy 8423, vuelta: 60, contador: 60
+hola soy 8422, vuelta: 60, contador: 60
+hola soy 8424, vuelta: 61, contador: 61
+hola soy 8419, vuelta: 61, contador: 61
+hola soy 8420, vuelta: 61, contador: 61
+hola soy 8421, vuelta: 61, contador: 61
+hola soy 8425, vuelta: 61, contador: 61
+hola soy 8418, vuelta: 61, contador: 61
+hola soy 8423, vuelta: 61, contador: 61
+hola soy 8422, vuelta: 61, contador: 61
+hola soy 8419, vuelta: 62, contador: 62
+hola soy 8420, vuelta: 62, contador: 62
+hola soy 8421, vuelta: 62, contador: 62
+hola soy 8418, vuelta: 62, contador: 62
+hola soy 8424, vuelta: 62, contador: 62
+hola soy 8425, vuelta: 62, contador: 62
+hola soy 8422, vuelta: 62, contador: 62
+hola soy 8423, vuelta: 62, contador: 62
+hola soy 8419, vuelta: 63, contador: 63
+hola soy 8421, vuelta: 63, contador: 63
+hola soy 8425, vuelta: 63, contador: 63
+hola soy 8418, vuelta: 63, contador: 63
+hola soy 8424, vuelta: 63, contador: 63
+hola soy 8422, vuelta: 63, contador: 63
+hola soy 8420, vuelta: 63, contador: 63
+hola soy 8423, vuelta: 63, contador: 63
+hola soy 8419, vuelta: 64, contador: 64
+hola soy 8418, vuelta: 64, contador: 64
+hola soy 8421, vuelta: 64, contador: 64
+hola soy 8425, vuelta: 64, contador: 64
+hola soy 8420, vuelta: 64, contador: 64
+hola soy 8423, vuelta: 64, contador: 64
+hola soy 8424, vuelta: 64, contador: 64
+hola soy 8422, vuelta: 64, contador: 64
+hola soy 8419, vuelta: 65, contador: 65
+hola soy 8418, vuelta: 65, contador: 65
+hola soy 8424, vuelta: 65, contador: 65
+hola soy 8420, vuelta: 65, contador: 65
+hola soy 8421, vuelta: 65, contador: 65
+hola soy 8425, vuelta: 65, contador: 65
+hola soy 8423, vuelta: 65, contador: 65
+hola soy 8422, vuelta: 65, contador: 65
+hola soy 8418, vuelta: 66, contador: 66
+hola soy 8425, vuelta: 66, contador: 66
+hola soy 8424, vuelta: 66, contador: 66
+hola soy 8421, vuelta: 66, contador: 66
+hola soy 8419, vuelta: 66, contador: 66
+hola soy 8423, vuelta: 66, contador: 66
+hola soy 8420, vuelta: 66, contador: 66
+hola soy 8422, vuelta: 66, contador: 66
+hola soy 8418, vuelta: 67, contador: 67
+hola soy 8424, vuelta: 67, contador: 67
+hola soy 8419, vuelta: 67, contador: 67
+hola soy 8425, vuelta: 67, contador: 67
+hola soy 8421, vuelta: 67, contador: 67
+hola soy 8423, vuelta: 67, contador: 67
+hola soy 8420, vuelta: 67, contador: 67
+hola soy 8422, vuelta: 67, contador: 67
+hola soy 8418, vuelta: 68, contador: 68
+hola soy 8424, vuelta: 68, contador: 68
+hola soy 8419, vuelta: 68, contador: 68
+hola soy 8423, vuelta: 68, contador: 68
+hola soy 8421, vuelta: 68, contador: 68
+hola soy 8425, vuelta: 68, contador: 68
+hola soy 8422, vuelta: 68, contador: 68
+hola soy 8420, vuelta: 68, contador: 68
+hola soy 8418, vuelta: 69, contador: 69
+hola soy 8424, vuelta: 69, contador: 69
+hola soy 8419, vuelta: 69, contador: 69
+hola soy 8423, vuelta: 69, contador: 69
+hola soy 8420, vuelta: 69, contador: 69
+hola soy 8422, vuelta: 69, contador: 69
+hola soy 8425, vuelta: 69, contador: 69
+hola soy 8421, vuelta: 69, contador: 69
+hola soy 8418, vuelta: 70, contador: 70
+hola soy 8424, vuelta: 70, contador: 70
+hola soy 8419, vuelta: 70, contador: 70
+hola soy 8423, vuelta: 70, contador: 70
+hola soy 8420, vuelta: 70, contador: 70
+hola soy 8422, vuelta: 70, contador: 70
+hola soy 8421, vuelta: 70, contador: 70
+hola soy 8425, vuelta: 70, contador: 70
+hola soy 8418, vuelta: 71, contador: 71
+hola soy 8424, vuelta: 71, contador: 71
+hola soy 8420, vuelta: 71, contador: 71
+hola soy 8422, vuelta: 71, contador: 71
+hola soy 8419, vuelta: 71, contador: 71
+hola soy 8423, vuelta: 71, contador: 71
+hola soy 8425, vuelta: 71, contador: 71
+hola soy 8421, vuelta: 71, contador: 71
+hola soy 8418, vuelta: 72, contador: 72
+hola soy 8424, vuelta: 72, contador: 72
+hola soy 8422, vuelta: 72, contador: 72
+hola soy 8425, vuelta: 72, contador: 72
+hola soy 8423, vuelta: 72, contador: 72
+hola soy 8420, vuelta: 72, contador: 72
+hola soy 8419, vuelta: 72, contador: 72
+hola soy 8421, vuelta: 72, contador: 72
+hola soy 8418, vuelta: 73, contador: 73
+hola soy 8422, vuelta: 73, contador: 73
+hola soy 8425, vuelta: 73, contador: 73
+hola soy 8424, vuelta: 73, contador: 73
+hola soy 8419, vuelta: 73, contador: 73
+hola soy 8420, vuelta: 73, contador: 73
+hola soy 8421, vuelta: 73, contador: 73
+hola soy 8423, vuelta: 73, contador: 73
+hola soy 8418, vuelta: 74, contador: 74
+hola soy 8425, vuelta: 74, contador: 74
+hola soy 8421, vuelta: 74, contador: 74
+hola soy 8422, vuelta: 74, contador: 74
+hola soy 8419, vuelta: 74, contador: 74
+hola soy 8424, vuelta: 74, contador: 74
+hola soy 8420, vuelta: 74, contador: 74
+hola soy 8423, vuelta: 74, contador: 74
+hola soy 8421, vuelta: 75, contador: 75
+hola soy 8418, vuelta: 75, contador: 75
+hola soy 8425, vuelta: 75, contador: 75
+hola soy 8424, vuelta: 75, contador: 75
+hola soy 8422, vuelta: 75, contador: 75
+hola soy 8423, vuelta: 75, contador: 75
+hola soy 8419, vuelta: 75, contador: 75
+hola soy 8420, vuelta: 75, contador: 75
+hola soy 8421, vuelta: 76, contador: 76
+hola soy 8425, vuelta: 76, contador: 76
+hola soy 8418, vuelta: 76, contador: 76
+hola soy 8423, vuelta: 76, contador: 76
+hola soy 8424, vuelta: 76, contador: 76
+hola soy 8422, vuelta: 76, contador: 76
+hola soy 8419, vuelta: 76, contador: 76
+hola soy 8420, vuelta: 76, contador: 76
+hola soy 8421, vuelta: 77, contador: 77
+hola soy 8425, vuelta: 77, contador: 77
+hola soy 8418, vuelta: 77, contador: 77
+hola soy 8423, vuelta: 77, contador: 77
+hola soy 8424, vuelta: 77, contador: 77
+hola soy 8422, vuelta: 77, contador: 77
+hola soy 8420, vuelta: 77, contador: 77
+hola soy 8419, vuelta: 77, contador: 77
+hola soy 8421, vuelta: 78, contador: 78
+hola soy 8423, vuelta: 78, contador: 78
+hola soy 8425, vuelta: 78, contador: 78
+hola soy 8418, vuelta: 78, contador: 78
+hola soy 8419, vuelta: 78, contador: 78
+hola soy 8420, vuelta: 78, contador: 78
+hola soy 8422, vuelta: 78, contador: 78
+hola soy 8424, vuelta: 78, contador: 78
+hola soy 8421, vuelta: 79, contador: 79
+hola soy 8425, vuelta: 79, contador: 79
+hola soy 8423, vuelta: 79, contador: 79
+hola soy 8418, vuelta: 79, contador: 79
+hola soy 8420, vuelta: 79, contador: 79
+hola soy 8419, vuelta: 79, contador: 79
+hola soy 8422, vuelta: 79, contador: 79
+hola soy 8424, vuelta: 79, contador: 79
+hola soy 8421, vuelta: 80, contador: 80
+hola soy 8423, vuelta: 80, contador: 80
+hola soy 8425, vuelta: 80, contador: 80
+hola soy 8418, vuelta: 80, contador: 80
+hola soy 8419, vuelta: 80, contador: 80
+hola soy 8420, vuelta: 80, contador: 80
+hola soy 8424, vuelta: 80, contador: 80
+hola soy 8422, vuelta: 80, contador: 80
+hola soy 8421, vuelta: 81, contador: 81
+hola soy 8423, vuelta: 81, contador: 81
+hola soy 8418, vuelta: 81, contador: 81
+hola soy 8425, vuelta: 81, contador: 81
+hola soy 8419, vuelta: 81, contador: 81
+hola soy 8420, vuelta: 81, contador: 81
+hola soy 8424, vuelta: 81, contador: 81
+hola soy 8422, vuelta: 81, contador: 81
+hola soy 8421, vuelta: 82, contador: 82
+hola soy 8418, vuelta: 82, contador: 82
+hola soy 8423, vuelta: 82, contador: 82
+hola soy 8419, vuelta: 82, contador: 82
+hola soy 8420, vuelta: 82, contador: 82
+hola soy 8425, vuelta: 82, contador: 82
+hola soy 8424, vuelta: 82, contador: 82
+hola soy 8422, vuelta: 82, contador: 82
+hola soy 8421, vuelta: 83, contador: 83
+hola soy 8425, vuelta: 83, contador: 83
+hola soy 8423, vuelta: 83, contador: 83
+hola soy 8420, vuelta: 83, contador: 83
+hola soy 8419, vuelta: 83, contador: 83
+hola soy 8424, vuelta: 83, contador: 83
+hola soy 8418, vuelta: 83, contador: 83
+hola soy 8422, vuelta: 83, contador: 83
+hola soy 8421, vuelta: 84, contador: 84
+hola soy 8423, vuelta: 84, contador: 84
+hola soy 8418, vuelta: 84, contador: 84
+hola soy 8425, vuelta: 84, contador: 84
+hola soy 8420, vuelta: 84, contador: 84
+hola soy 8419, vuelta: 84, contador: 84
+hola soy 8424, vuelta: 84, contador: 84
+hola soy 8422, vuelta: 84, contador: 84
+hola soy 8421, vuelta: 85, contador: 85
+hola soy 8423, vuelta: 85, contador: 85
+hola soy 8425, vuelta: 85, contador: 85
+hola soy 8418, vuelta: 85, contador: 85
+hola soy 8420, vuelta: 85, contador: 85
+hola soy 8422, vuelta: 85, contador: 85
+hola soy 8419, vuelta: 85, contador: 85
+hola soy 8424, vuelta: 85, contador: 85
+hola soy 8421, vuelta: 86, contador: 86
+hola soy 8423, vuelta: 86, contador: 86
+hola soy 8422, vuelta: 86, contador: 86
+hola soy 8425, vuelta: 86, contador: 86
+hola soy 8419, vuelta: 86, contador: 86
+hola soy 8418, vuelta: 86, contador: 86
+hola soy 8420, vuelta: 86, contador: 86
+hola soy 8424, vuelta: 86, contador: 86
+hola soy 8423, vuelta: 87, contador: 87
+hola soy 8421, vuelta: 87, contador: 87
+hola soy 8422, vuelta: 87, contador: 87
+hola soy 8425, vuelta: 87, contador: 87
+hola soy 8420, vuelta: 87, contador: 87
+hola soy 8418, vuelta: 87, contador: 87
+hola soy 8419, vuelta: 87, contador: 87
+hola soy 8424, vuelta: 87, contador: 87
+hola soy 8423, vuelta: 88, contador: 88
+hola soy 8422, vuelta: 88, contador: 88
+hola soy 8421, vuelta: 88, contador: 88
+hola soy 8425, vuelta: 88, contador: 88
+hola soy 8420, vuelta: 88, contador: 88
+hola soy 8418, vuelta: 88, contador: 88
+hola soy 8424, vuelta: 88, contador: 88
+hola soy 8419, vuelta: 88, contador: 88
+hola soy 8422, vuelta: 89, contador: 89
+hola soy 8423, vuelta: 89, contador: 89
+hola soy 8425, vuelta: 89, contador: 89
+hola soy 8421, vuelta: 89, contador: 89
+hola soy 8420, vuelta: 89, contador: 89
+hola soy 8424, vuelta: 89, contador: 89
+hola soy 8418, vuelta: 89, contador: 89
+hola soy 8419, vuelta: 89, contador: 89
+hola soy 8423, vuelta: 90, contador: 90
+hola soy 8422, vuelta: 90, contador: 90
+hola soy 8424, vuelta: 90, contador: 90
+hola soy 8420, vuelta: 90, contador: 90
+hola soy 8425, vuelta: 90, contador: 90
+hola soy 8421, vuelta: 90, contador: 90
+hola soy 8418, vuelta: 90, contador: 90
+hola soy 8419, vuelta: 90, contador: 90
+hola soy 8423, vuelta: 91, contador: 91
+hola soy 8422, vuelta: 91, contador: 91
+hola soy 8424, vuelta: 91, contador: 91
+hola soy 8420, vuelta: 91, contador: 91
+hola soy 8421, vuelta: 91, contador: 91
+hola soy 8418, vuelta: 91, contador: 91
+hola soy 8425, vuelta: 91, contador: 91
+hola soy 8419, vuelta: 91, contador: 91
+hola soy 8424, vuelta: 92, contador: 92
+hola soy 8422, vuelta: 92, contador: 92
+hola soy 8423, vuelta: 92, contador: 92
+hola soy 8420, vuelta: 92, contador: 92
+hola soy 8418, vuelta: 92, contador: 92
+hola soy 8425, vuelta: 92, contador: 92
+hola soy 8421, vuelta: 92, contador: 92
+hola soy 8419, vuelta: 92, contador: 92
+hola soy 8424, vuelta: 93, contador: 93
+hola soy 8422, vuelta: 93, contador: 93
+hola soy 8420, vuelta: 93, contador: 93
+hola soy 8423, vuelta: 93, contador: 93
+hola soy 8419, vuelta: 93, contador: 93
+hola soy 8425, vuelta: 93, contador: 93
+hola soy 8418, vuelta: 93, contador: 93
+hola soy 8421, vuelta: 93, contador: 93
+hola soy 8424, vuelta: 94, contador: 94
+hola soy 8420, vuelta: 94, contador: 94
+hola soy 8419, vuelta: 94, contador: 94
+hola soy 8425, vuelta: 94, contador: 94
+hola soy 8422, vuelta: 94, contador: 94
+hola soy 8423, vuelta: 94, contador: 94
+hola soy 8418, vuelta: 94, contador: 94
+hola soy 8421, vuelta: 94, contador: 94
+hola soy 8424, vuelta: 95, contador: 95
+hola soy 8420, vuelta: 95, contador: 95
+hola soy 8418, vuelta: 95, contador: 95
+hola soy 8425, vuelta: 95, contador: 95
+hola soy 8419, vuelta: 95, contador: 95
+hola soy 8423, vuelta: 95, contador: 95
+hola soy 8421, vuelta: 95, contador: 95
+hola soy 8422, vuelta: 95, contador: 95
+hola soy 8424, vuelta: 96, contador: 96
+hola soy 8420, vuelta: 96, contador: 96
+hola soy 8425, vuelta: 96, contador: 96
+hola soy 8418, vuelta: 96, contador: 96
+hola soy 8419, vuelta: 96, contador: 96
+hola soy 8423, vuelta: 96, contador: 96
+hola soy 8422, vuelta: 96, contador: 96
+hola soy 8421, vuelta: 96, contador: 96
+hola soy 8424, vuelta: 97, contador: 97
+hola soy 8425, vuelta: 97, contador: 97
+hola soy 8418, vuelta: 97, contador: 97
+hola soy 8420, vuelta: 97, contador: 97
+hola soy 8419, vuelta: 97, contador: 97
+hola soy 8422, vuelta: 97, contador: 97
+hola soy 8423, vuelta: 97, contador: 97
+hola soy 8421, vuelta: 97, contador: 97
+hola soy 8424, vuelta: 98, contador: 98
+hola soy 8425, vuelta: 98, contador: 98
+hola soy 8418, vuelta: 98, contador: 98
+hola soy 8420, vuelta: 98, contador: 98
+hola soy 8422, vuelta: 98, contador: 98
+hola soy 8419, vuelta: 98, contador: 98
+hola soy 8421, vuelta: 98, contador: 98
+hola soy 8423, vuelta: 98, contador: 98
+hola soy 8424, vuelta: 99, contador: 99
+hola soy 8425, vuelta: 99, contador: 99
+hola soy 8422, vuelta: 99, contador: 99
+hola soy 8418, vuelta: 99, contador: 99
+hola soy 8420, vuelta: 99, contador: 99
+hola soy 8421, vuelta: 99, contador: 99
+hola soy 8419, vuelta: 99, contador: 99
+hola soy 8423, vuelta: 99, contador: 99
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ git add 3_procesos.py
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ git commit -m "caso 3"
+[main 8c15475] caso 3
+ Committer: Isabel Beltrá Merino <ibeltra@meralloz4.fdi.ucm.es>
+Tu nombre y correo fueron configurados automáticamente basados
+en tu usuario y nombre de host. Por favor verifica que son correctos.
+Tu puedes suprimir este mensaje configurándolos de forma explicita: 
+
+    git config --global user.name "Tu nombre"
+    git config --global user.email you@example.com
+
+Tras hacer esto, puedes arreglar tu identidad para este commit con:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 22 insertions(+)
+ create mode 100644 3_procesos.py
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ git push
+Enter passphrase for key '/home/ibeltra/.ssh/id_rsa': 
+Enumerando objetos: 4, listo.
+Contando objetos:  25% (1/4)   Contando objetos:  50% (2/4)   Contando objetos:  75% (3/4)   Contando objetos: 100% (4/4)   Contando objetos: 100% (4/4), listo.
+Compresión delta usando hasta 12 hilos
+Comprimiendo objetos:  33% (1/3)   Comprimiendo objetos:  66% (2/3)   Comprimiendo objetos: 100% (3/3)   Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos:  33% (1/3)   Escribiendo objetos:  66% (2/3)   Escribiendo objetos: 100% (3/3)   Escribiendo objetos: 100% (3/3), 566 bytes | 566.00 KiB/s, listo.
+Total 3 (delta 1), reusado 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:ibeltra/i.beltra1.git
+   b9db395..8c15475  main -> main
+]0;ibeltra@simba: ~/i.beltra1[01;32mibeltra@simba[00m:[01;34m~/i.beltra1[00m$ exit
+
+Script terminado en 2022-02-03 21:31:53+01:00 [CÓDIGO_SALIDA_ORDEN="0"]
+425, vuelta: 85, contador: 85
+hola soy 8418, vuelta: 85, contador: 85
+hola soy 8420, vuelta: 85, contador: 85
+hola soy 8422, vuelta: 85, contador: 85
+hola soy 8419, vuelta: 85, contador: 85
+hola soy 8424, vuelta: 85, contador: 85
+hola soy 8421, vuelta: 86, contador: 86
+hola soy 8423, vuelta: 86, contador: 86
+hola soy 8422, vuelta: 86, contador: 86
+hola soy 8425, vuelta: 86, contador: 86
+hola soy 8419, vuelta: 86, contador: 86
+hola soy 8418, vuelta: 86, contador: 86
+hola soy 8420, vuelta: 86, contador: 86
+hola soy 8424, vuelta: 86, contador: 86
+hola soy 8423, vuelta: 87, contador: 87
+hola soy 8421, vuelta: 87, contador: 87
+hola soy 8422, vuelta: 87, contador: 87
+hola soy 8425, vuelta: 87, contador: 87
+hola soy 8420, vuelta: 87, contador: 87
+hola soy 8418, vuelta: 87, contador: 87
+hola soy 8419, vuelta: 87, contador: 87
+hola soy 8424, vuelta: 87, contador: 87
+hola soy 8423, vuelta: 88, contador: 88
+hola soy 8422, vuelta: 88, contador: 88
+hola soy 8421, vuelta: 88, contador: 88
+hola soy 8425, vuelta: 88, contador: 88
+hola soy 8420, vuelta: 88, contador: 88
+hola soy 8418, vuelta: 88, contador: 88
+hola soy 8424, vuelta: 88, contador: 88
+hola soy 8419, vuelta: 88, contador: 88
+hola soy 8422, vuelta: 89, contador: 89
+hola soy 8423, vuelta: 89, contador: 89
+hola soy 8425, vuelta: 89, contador: 89
+hola soy 8421, vuelta: 89, contador: 89
+hola soy 8420, vuelta: 89, contador: 89
+hola soy 8424, vuelta: 89, contador: 89
+hola soy 8418, vuelta: 89, contador: 89
+hola soy 8419, vuelta: 89, contador: 89
+hola soy 8423, vuelta: 90, contador: 90
+hola soy 8422, vuelta: 90, contador: 90
+hola soy 8424, vuelta: 90, contador: 90
+hola soy 8420, vuelta: 90, contador: 90
+hola soy 8425, vuelta: 90, contador: 90
+hola soy 8421, vuelta: 90, contador: 90
+hola soy 8418, vuelta: 90, contador: 90
+hola soy 8419, vuelta: 90, contador: 90
+hola soy 8423, vuelta: 91, contador: 91
+hola soy 8422, vuelta: 91, contador: 91
+hola soy 8424, vuelta: 91, contador: 91
+hola soy 8420, vuelta: 91, contador: 91
+hola soy 8421, vuelta: 91, contador: 91
+hola soy 8418, vuelta: 91, contador: 91
+hola soy 8425, vuelta: 91, contador: 91
+hola soy 8419, vuelta: 91, contador: 91
+hola soy 8424, vuelta: 92, contador: 92
+hola soy 8422, vuelta: 92, contador: 92
+hola soy 8423, vuelta: 92, contador: 92
+hola soy 8420, vuelta: 92, contador: 92
+hola soy 8418, vuelta: 92, contador: 92
+hola soy 8425, vuelta: 92, contador: 92
+hola soy 8421, vuelta: 92, contador: 92
+hola soy 8419, vuelta: 92, contador: 92
+hola soy 8424, vuelta: 93, contador: 93
+hola soy 8422, vuelta: 93, contador: 93
+hola soy 8420, vuelta: 93, contador: 93
+hola soy 8423, vuelta: 93, contador: 93
+hola soy 8419, vuelta: 93, contador: 93
+hola soy 8425, vuelta: 93, contador: 93
+hola soy 8418, vuelta: 93, contador: 93
+hola soy 8421, vuelta: 93, contador: 93
+hola soy 8424, vuelta: 94, contador: 94
+hola soy 8420, vuelta: 94, contador: 94
+hola soy 8419, vuelta: 94, contador: 94
+hola soy 8425, vuelta: 94, contador: 94
+hola soy 8422, vuelta: 94, contador: 94
+hola soy 8423, vuelta: 94, contador: 94
+hola soy 8418, vuelta: 94, contador: 94
+hola soy 8421, vuelta: 94, contador: 94
+hola soy 8424, vuelta: 95, contador: 95
+hola soy 8420, vuelta: 95, contador: 95
+hola soy 8418, vuelta: 95, contador: 95
+hola soy 8425, vuelta: 95, contador: 95
+hola soy 8419, vuelta: 95, contador: 95
+hola soy 8423, vuelta: 95, contador: 95
+hola soy 8421, vuelta: 95, contador: 95
+hola soy 8422, vuelta: 95, contador: 95
+hola soy 8424, vuelta: 96, contador: 96
+hola soy 8420, vuelta: 96, contador: 96
+hola soy 8425, vuelta: 96, contador: 96
+hola soy 8418, vuelta: 96, contador: 96
+hola soy 8419, vuelta: 96, contador: 96
+hola soy 8423, vuelta
